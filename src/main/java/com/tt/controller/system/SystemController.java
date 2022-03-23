@@ -14,7 +14,7 @@ public class SystemController{
 	@ResponseBody
     public String handle(Model model) {
         model.addAttribute("message", "Hello World!");
-        System.out.println("aaaa");
+        System.out.println("aaaa11122222 传 啊  2222222222212 4222  2222");
         //111 222 444
         return "index";
     }
